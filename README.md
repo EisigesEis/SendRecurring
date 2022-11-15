@@ -1,7 +1,10 @@
 # SendRecurring
 
 This inefficient AutoHotkey Script will send a recurring digit or numerical sequence a select amount of times.<br>
-**Editing your input or switching tabs may invalidate the sequence requiring you to re-type.**
+
+### Caveats
+- Editing your input or switching tabs may invalidate the sequence requiring you to re-type.
+- May drain battery due to analyzing all text inputs. Run this script only when needed.
 
 ### Installation
 1. Install [AutoHotkey](https://www.autohotkey.com/) - *"Current Version" recommended.*
