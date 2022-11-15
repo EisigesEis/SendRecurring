@@ -3,7 +3,7 @@
 #Include <Hotstring>
 
 Hotstring("(\d)\<(\d+)<", "typeout",3)
-Hotstring("<(\d+)\<(\d+)<", "typeout",3)
+Hotstring("#(\d+)\#(\d+)#", "typeout",3)
 Return
 
 typeout:
