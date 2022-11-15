@@ -27,5 +27,5 @@ or:<br>'#' NumericalSequence '#' ReapeatAmount '#'
 <br>
 
 ### Configuration
-- You can customize the seperation and finish characters `<` in line 2 and `#` 3.
-- At your own risk: You can increase the `Max_Iterations` limit in line 6.
+- You can customize the seperation and finish characters `<` in line 5 and `#` 6.
+- At your own risk: You can increase the `Max_Iterations` limit in line 10.
