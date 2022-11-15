@@ -12,14 +12,14 @@ This inefficient AutoHotkey Script will send a recurring digit or numerical sequ
 - Run `SendRecurringNum.ahk`
 - Type:<br>
 digit '<' ReapeatAmount '<'<br>
-or:<br>'<' NumericalSequence '<' ReapeatAmount '<'
+or:<br>'#' NumericalSequence '#' ReapeatAmount '#'
 
 #### Examples
 | Input | Output |
 | --- | --- |
 | 0<4<  | 0000 |
-| <0121<3< | 012101210121 |
+| #0121#3# | 012101210121 |
 
 ### Configuration
-- You can customize the seperation and finish character `<` in line 2 and 3.
+- You can customize the seperation and finish characters `<` in line 2 and `#` 3.
 - At your own risk: You can increase the max iteration limit in line 6.
