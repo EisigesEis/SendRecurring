@@ -1,4 +1,5 @@
-﻿#SingleInstance Force
+#HotkeyInterval 1000
+#SingleInstance Force
 #Include <Hotstring>
 
 Hotstring("(\d)\<(\d+)<", "typeout",3)
