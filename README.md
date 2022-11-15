@@ -5,7 +5,8 @@ This inefficient AutoHotkey Script will send a recurring digit or numerical sequ
 
 ### Installation
 1. Install [AutoHotkey](https://www.autohotkey.com/) - *"Current Version" recommended.*
-2. Put [Hotstrings.ahk](https://github.com/menixator/hotstring) into your script folder or the library folder within your AHK installation: `C:\Program Files\AutoHotkey\Lib`
+2. Put [Hotstrings.ahk](https://github.com/menixator/hotstring) into your script folder or the library folder within your AHK installation:<br>
+`C:\Program Files\AutoHotkey\Lib`
 
 ### Usage
 - Run `SendRecurringNum.ahk`
