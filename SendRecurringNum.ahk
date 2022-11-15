@@ -12,7 +12,7 @@ typeout:
     Num := "" $.Value(1)
     CombinedNum := ""
 
-    if (!iterations || Iterations > Max_Iterations) {
+    if (!Iterations || Iterations > Max_Iterations) {
         return
     }
 
